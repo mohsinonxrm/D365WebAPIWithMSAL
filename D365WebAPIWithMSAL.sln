@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D365WebAPIWithMSAL", "D365WebAPIWithMSAL\D365WebAPIWithMSAL.csproj", "{3251DC72-6242-4BDA-8C0F-D7D16585C65D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3251DC72-6242-4BDA-8C0F-D7D16585C65D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3251DC72-6242-4BDA-8C0F-D7D16585C65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3251DC72-6242-4BDA-8C0F-D7D16585C65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3251DC72-6242-4BDA-8C0F-D7D16585C65D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37BC320A-BDF5-4505-A014-7F32AA0C6E38}
+	EndGlobalSection
+EndGlobal
